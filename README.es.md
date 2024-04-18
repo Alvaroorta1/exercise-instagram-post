@@ -1,7 +1,7 @@
 <!-- hide -->
 # El Post de Instagram 
 <!-- endhide -->
-
+<!-- holis -->
 Instagram es una de las interfaces de usuarios más populares del mundo, este es el primero de los tres ejercicios que te harán replicar las partes más importantes y difíciles de Instagram.com
 
 Crea los archivos HTML y CSS necesarios para replicar [esta misma imagen](https://github.com/breatheco-de/exercise-instagram-post/blob/master/preview.png?raw=true).
